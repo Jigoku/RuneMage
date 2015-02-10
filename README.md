@@ -1,5 +1,10 @@
 # RuneMage
 A perl-gtk2 frontend for runescape on *nix platforms.
+Discontinued indefinetely, since mozembed was dropped by XUL developers
+and perl-webkit refuses to build on my end. Some of the program is still 
+functional, needs alot of updating however.
+
+Screenshot: https://imgur.com/z5QND8M
 
 ## To run the client;
 
