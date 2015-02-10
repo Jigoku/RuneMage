@@ -1,0 +1,48 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<style type="text/css">
+		body {  
+			background-color: white; 
+			color: black; 
+			font-family: Arial, sans-serif;
+		}
+
+		#container {
+			margin-top: 150px;
+		}
+
+		#middle {
+			text-align: center;
+			margin-left: auto ;
+			margin-right: auto ;
+		}
+	</style>
+</head>
+
+
+
+<body>
+
+<div id="container">
+		<div id="middle">
+			<p><!-- Show Random Logo -->
+				<script>
+					var randNum = Math.floor(Math.random()*6);
+					document.write('<img src="logo'+ randNum +'.png" alt="logo" />');
+				</script>
+			</p>
+				
+			<p><!-- Version -->
+				<h1>RuneMage 0.7.9 (dev)</h1>
+			</p>
+
+			<p><!-- Description -->
+				An unofficial open source runescape client.
+			</p>
+		</div>	
+</div>
+
+</body>
+
+</html>
