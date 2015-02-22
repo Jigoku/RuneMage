@@ -1,8 +1,10 @@
 # RuneMage
 A perl-gtk2 frontend for runescape on *nix platforms.
-Discontinued indefinetely, since mozembed was dropped by XUL developers
-and perl-webkit refuses to build on my end. Some of the program is still 
-functional, needs alot of updating however.
+
+PLEASE NOTE.
+Discontinued indefinetely, since mozembed was dropped by XUL developers several years back. 
+There was an initial port to perl-webkit, however it refuses to build on my end. Some of the program is still 
+functional, and needs alot of updating however. The grand exchange code also broke alot time ago, due to site changes and parsing problems.
 
 ![RuneMage 0.7.9 Screenshot](data/screen.png)
 
@@ -10,21 +12,25 @@ functional, needs alot of updating however.
 
 ## To run the client;
 
-$ ./runemage.pl
+```$ ./runemage.pl```
 
 ## Features:
 	Hiscore Lookup
-		Search players exp, ranks, and lvls.
-	
-	Grand Exchange price checking
+		Skills (exp, lvls, ranks)
+		Minigames (ranks)
+		
+	Grand Exchange price checking !! removed (incompatible since ~2011-2012) !!
 		Compare prices of items on the grand 
 		exchange, and how much they have changed 
 		over time.
 
 	Compact / Lightweight browser alternative
-		No need to have several browser windows 
-		open while playing runescape.
-
+		Less desktop clutter while playing
+		
+	Map Viewer
+		Switch between rs2/classic maps
+		Zoom / Pan
+		
 	Adventure Log access 
 		View a players recent activitys		
 		(only works for members accounts, and 
@@ -32,5 +38,7 @@ $ ./runemage.pl
 
 ## Built in commands:
 
---version	Display the version and exit
+Display the version and exit
+```--version```
+
 
