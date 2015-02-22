@@ -6,6 +6,8 @@ functional, needs alot of updating however.
 
 ![RuneMage 0.7.9 Screenshot](data/screen.png)
 
+![RuneMage 0.7.9 Screenshot](data/screen2.png)
+
 ## To run the client;
 
 $ ./runemage.pl
