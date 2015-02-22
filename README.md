@@ -4,7 +4,7 @@ Discontinued indefinetely, since mozembed was dropped by XUL developers
 and perl-webkit refuses to build on my end. Some of the program is still 
 functional, needs alot of updating however.
 
-Screenshot: https://imgur.com/z5QND8M
+![RuneMage 0.7.9 Screenshot]( -- )
 
 ## To run the client;
 
