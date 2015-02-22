@@ -4,7 +4,7 @@ Discontinued indefinetely, since mozembed was dropped by XUL developers
 and perl-webkit refuses to build on my end. Some of the program is still 
 functional, needs alot of updating however.
 
-![runemage screenshot](https://imgur.com/z5QND8M)
+!(https://imgur.com/z5QND8M)
 
 ## To run the client;
 
