@@ -6,6 +6,8 @@ Discontinued indefinetely, since mozembed was dropped by XUL developers several 
 There was an initial port to perl-webkit, however it refuses to build on my end. Some of the program is still 
 functional, and needs alot of updating however. The grand exchange code also broke alot time ago, due to site changes and parsing problems.
 
+![screenshot - 02032011 - 08_31_53 pm](https://cloud.githubusercontent.com/assets/1535179/7558250/027a6d7c-f798-11e4-8a6a-f6736c35dd3d.png)
+
 ![RuneMage 0.7.9 Screenshot](data/screen.png)
 
 ![RuneMage 0.7.9 Screenshot](data/screen2.png)
